@@ -4,24 +4,83 @@
 <head>
   <meta charset="utf-8">
   <title>Chris B Demonstration</title>
-  <!-- Data Driven Document link, main library of importance -->
+
   <link type="text/css" rel="stylesheet" href="styles.css" />
+  <!-- Data Driven Document link (D3.js) -->
   <script src="https://d3js.org/d3.v5.min.js"></script>
-  <!-- excel converter link (not in use, better options with node.js) -->
+  <!-- excel converter link (not in use, might use later, better options with node.js) -->
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.15.3/xlsx.full.min.js"></script>
 </head>
 
 <body>
   <div id="mainContent">
-    <img id="mainLogo" class="dark_logo mobile_logo" src="https://www.farmlinksolutions.ca/wp-content/uploads/2016/05/logo-1.png" alt="FarmLink" title="FarmLink" data-pagespeed-url-hash="2290204300" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+    <!--  <img id="mainLogo" class="dark_logo mobile_logo"
+    src="https://www.farmlinksolutions.ca/wp-content/uploads/2016/05/logo-1.png"
+    alt="FarmLink" title="FarmLink" data-pagespeed-url-hash="2290204300"
+    onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> -->
+
     <div id="charts">
-      <canvas id="barChart">
-      </canvas>
+      <!-- Selects, Note: This are manually created for demo purposes.
+      For practical application sould be templated and auto-filled from the back-end
+      for easy updates of data-->
+      <div id="selectRack">
+        <select id="countryDD" name="Country">
+          <option value="Country" selected="selected">Counrty</option>
+          <option value="Canada">Canada</option>
+          <option value="Japan">Japan</option>
+        </select>
+        <select id="productDD" name="Product">
+          <option value="Product" selected="selected">Product</option>
+          <option value="Barley">Barley</option>
+          <option value="Rye">Rye</option>
+          <option value="Wheat">Wheat</option>
+        </select>
+        <select id="attributeDD" name="Attribute">
+          <option value="Attribute" selected="selected">Attribute</option>
+          <option value="Exports">Exports</option>
+          <option value="Imports">Imports</option>
+          <option value="Production/Exports">Production/Exports</option>
+        </select>
+        <button id="chartButton" type="button" onclick="showResults()">Show Results</button>
+      </div>
     </div>
   </div>
 </body>
 <script>
+  // d3 variables
+  var margin = {
+    top: 20,
+    right: 20,
+    bottom: 30,
+    left: 40
+  };
+  var width = 800;
+  var height = 600;
+  var x = d3.scaleBand().rangeRound([0, width]).padding(0.2);
+  var y = d3.scaleLinear().rangeRound([height, 0]);
+  var testData =
 
+    var g = barSvg.append('g')
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  //tooltip
+  var toolTip = d3.select('#reuseChart')
+    .append('div')
+    .attr('class', 'd3tooltip');
+
+  toolTip.append('div')
+    .attr('class', 'x'); //changed to x from 'IntakeName'
+
+  toolTip.append('div')
+    .attr('class', 'y');
+
+  var barChart = d3.select("#charts")
+    .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  // d3 variables end
 </script>
 
 </html>

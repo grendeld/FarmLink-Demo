@@ -1,7 +1,12 @@
+body {
+  font-family: "Lato", Arial, sans-serif;
+}
+
 #mainContent {
   display: grid;
   grid-template-columns: 25% auto 25%;
   grid-template-rows: 25% auto auto;
+  grid-gap: 3px;
 }
 
 #mainLogo {
@@ -18,3 +23,68 @@
   grid-row-start: 2;
   grid-row-end: : 3;
 }
+
+#selectRack {
+  display: flex;
+  justify-content: center;
+}
+
+select {
+  border: 3px solid rgb(0, 130, 208);
+  color: #0082d0;
+  font-size: 1vw;
+  padding: 10px;
+  margin: 2px;
+}
+
+select:hover {
+  background: #0082d0;
+  color: #fff;
+  transition: 500ms;
+}
+
+option:hover {
+  background: rgb(255, 255, 255);
+  color: #0082d0;
+}
+#chartButton{
+  border: 3px solid rgb(0, 0, 0);
+  color: #0082d0;
+  font-size: 1vw;
+  padding: 10px;
+  margin: 2px;
+}
+#chartButton:hover{
+  background: #0082d0;
+  color: #fff;
+  transition: 500ms;
+}
+/* bar chart styles */
+.axis--x path{
+  display: none;
+}
+.bar{
+  fill:rgba(80,73,113,1);
+  /*when -webkit for shadow is added it displaces the tooltip, Personal Note: check d3 event.Layer */
+  /*-webkit-filter: drop-shadow( 9px 0px 3px rgba(0,0,0,.5) );
+  filter: drop-shadow( 9px 0px 3px rgba(0,0,0,.5) );*/
+}
+.bar:hover{
+  fill:rgba(192,182,207,1);
+}
+.d3tooltip {
+  position: absolute;
+  width: 100px;
+  height: auto;
+  display: none;
+  padding: 10px;
+  background-color: rgba(243,123,125,0.4);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rbga(0, 0, 0, 0.4) pointer-events: none;
+  z-index: 10;
+}
+/* bar chart styles end */
