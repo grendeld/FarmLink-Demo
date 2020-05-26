@@ -58,10 +58,9 @@
   var height = 600;
   var x = d3.scaleBand().rangeRound([0, width]).padding(0.2);
   var y = d3.scaleLinear().rangeRound([height, 0]);
-  var testData =
+  var testData =[];
 
-    var g = barSvg.append('g')
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  // d3 variables end
 
   //tooltip
   var toolTip = d3.select('#reuseChart')
@@ -80,7 +79,10 @@
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-  // d3 variables end
+
+    var g = barChart.append('g')
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
 </script>
 
 </html>
