@@ -27,7 +27,7 @@
         <select id="countryDD" name="Country">
           <option value="Country" selected="selected">Counrty</option>
           <option value="Canada">Canada</option>
-          <option value="Japan">Japan</option>
+          <option value="Russia">Russia</option>
         </select>
         <select id="productDD" name="Product">
           <option value="Product" selected="selected">Product</option>
@@ -45,6 +45,7 @@
       </div>
     </div>
   </div>
+
 </body>
 <script>
   // d3 variables
@@ -58,7 +59,7 @@
   var height = 600;
   var x = d3.scaleBand().rangeRound([0, width]).padding(0.2);
   var y = d3.scaleLinear().rangeRound([height, 0]);
-  var testData =[];
+  var testData = [];
 
   // d3 variables end
 
@@ -80,9 +81,11 @@
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    var g = barChart.append('g')
+  var g = barChart.append('g')
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
+  d3.csv().then(function(data) {
+    console.log(data);
+  });
 </script>
 
 </html>

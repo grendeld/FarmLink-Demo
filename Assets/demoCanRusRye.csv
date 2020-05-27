@@ -1,0 +1,338 @@
+Product,Market_Year,Attribute_Description,Country_Name,Value
+Rye,2000,Area Harvested,Canada,115
+Rye,2000,Beginning Stocks,Canada,161
+Rye,2000,Domestic Consumption,Canada,256
+Rye,2000,Ending Stocks,Canada,77
+Rye,2000,Exports,Canada,91
+Rye,2000,Feed Dom. Consumption,Canada,171
+Rye,2000,FSI Consumption,Canada,85
+Rye,2000,Imports,Canada,3
+Rye,2000,Production,Canada,260
+Rye,2000,Total Distribution,Canada,424
+Rye,2000,Total Supply,Canada,424
+Rye,2000,TY Exports,Canada,91
+Rye,2000,TY Imp. from U.S.,Canada,5
+Rye,2000,TY Imports,Canada,5
+Rye,2000,Yield,Canada,2.26Rye,2001,Area Harvested,Canada,123
+Rye,2001,Beginning Stocks,Canada,77
+Rye,2001,Domestic Consumption,Canada,193
+Rye,2001,Ending Stocks,Canada,49
+Rye,2001,Exports,Canada,66
+Rye,2001,Feed Dom. Consumption,Canada,139
+Rye,2001,FSI Consumption,Canada,54
+Rye,2001,Imports,Canada,3
+Rye,2001,Production,Canada,228
+Rye,2001,Total Distribution,Canada,308
+Rye,2001,Total Supply,Canada,308
+Rye,2001,TY Exports,Canada,68
+Rye,2001,TY Imp. from U.S.,Canada,2
+Rye,2001,TY Imports,Canada,5
+Rye,2001,Yield,Canada,1.85Rye,2002,Area Harvested,Canada,77
+Rye,2002,Beginning Stocks,Canada,49
+Rye,2002,Domestic Consumption,Canada,106
+Rye,2002,Ending Stocks,Canada,25
+Rye,2002,Exports,Canada,53
+Rye,2002,Feed Dom. Consumption,Canada,46
+Rye,2002,FSI Consumption,Canada,60
+Rye,2002,Imports,Canada,1
+Rye,2002,Production,Canada,134
+Rye,2002,Total Distribution,Canada,184
+Rye,2002,Total Supply,Canada,184
+Rye,2002,TY Exports,Canada,44
+Rye,2002,TY Imp. from U.S.,Canada,1
+Rye,2002,TY Imports,Canada,2
+Rye,2002,Yield,Canada,1.74Rye,2003,Area Harvested,Canada,147
+Rye,2003,Beginning Stocks,Canada,25
+Rye,2003,Domestic Consumption,Canada,136
+Rye,2003,Ending Stocks,Canada,43
+Rye,2003,Exports,Canada,173
+Rye,2003,Feed Dom. Consumption,Canada,61
+Rye,2003,FSI Consumption,Canada,75
+Rye,2003,Imports,Canada,0
+Rye,2003,Production,Canada,327
+Rye,2003,Total Distribution,Canada,352
+Rye,2003,Total Supply,Canada,352
+Rye,2003,TY Exports,Canada,186
+Rye,2003,TY Imp. from U.S.,Canada,0
+Rye,2003,TY Imports,Canada,0
+Rye,2003,Yield,Canada,2.22Rye,2004,Area Harvested,Canada,157
+Rye,2004,Beginning Stocks,Canada,43
+Rye,2004,Domestic Consumption,Canada,174
+Rye,2004,Ending Stocks,Canada,145
+Rye,2004,Exports,Canada,122
+Rye,2004,Feed Dom. Consumption,Canada,109
+Rye,2004,FSI Consumption,Canada,65
+Rye,2004,Imports,Canada,0
+Rye,2004,Production,Canada,398
+Rye,2004,Total Distribution,Canada,441
+Rye,2004,Total Supply,Canada,441
+Rye,2004,TY Exports,Canada,123
+Rye,2004,TY Imp. from U.S.,Canada,0
+Rye,2004,TY Imports,Canada,0
+Rye,2004,Yield,Canada,2.54Rye,2005,Area Harvested,Canada,136
+Rye,2005,Beginning Stocks,Canada,145
+Rye,2005,Domestic Consumption,Canada,158
+Rye,2005,Ending Stocks,Canada,185
+Rye,2005,Exports,Canada,132
+Rye,2005,Feed Dom. Consumption,Canada,88
+Rye,2005,FSI Consumption,Canada,70
+Rye,2005,Imports,Canada,0
+Rye,2005,Production,Canada,330
+Rye,2005,Total Distribution,Canada,475
+Rye,2005,Total Supply,Canada,475
+Rye,2005,TY Exports,Canada,141
+Rye,2005,TY Imp. from U.S.,Canada,0
+Rye,2005,TY Imports,Canada,0
+Rye,2005,Yield,Canada,2.43Rye,2006,Area Harvested,Canada,164
+Rye,2006,Beginning Stocks,Canada,185
+Rye,2006,Domestic Consumption,Canada,243
+Rye,2006,Ending Stocks,Canada,117
+Rye,2006,Exports,Canada,208
+Rye,2006,Feed Dom. Consumption,Canada,178
+Rye,2006,FSI Consumption,Canada,65
+Rye,2006,Imports,Canada,0
+Rye,2006,Production,Canada,383
+Rye,2006,Total Distribution,Canada,568
+Rye,2006,Total Supply,Canada,568
+Rye,2006,TY Exports,Canada,207
+Rye,2006,TY Imp. from U.S.,Canada,0
+Rye,2006,TY Imports,Canada,0
+Rye,2006,Yield,Canada,2.34Rye,2007,Area Harvested,Canada,115
+Rye,2007,Beginning Stocks,Canada,117
+Rye,2007,Domestic Consumption,Canada,143
+Rye,2007,Ending Stocks,Canada,35
+Rye,2007,Exports,Canada,191
+Rye,2007,Feed Dom. Consumption,Canada,83
+Rye,2007,FSI Consumption,Canada,60
+Rye,2007,Imports,Canada,0
+Rye,2007,Production,Canada,252
+Rye,2007,Total Distribution,Canada,369
+Rye,2007,Total Supply,Canada,369
+Rye,2007,TY Exports,Canada,167
+Rye,2007,TY Imp. from U.S.,Canada,0
+Rye,2007,TY Imports,Canada,0
+Rye,2007,Yield,Canada,2.19Rye,2008,Area Harvested,Canada,123
+Rye,2008,Beginning Stocks,Canada,35
+Rye,2008,Domestic Consumption,Canada,143
+Rye,2008,Ending Stocks,Canada,113
+Rye,2008,Exports,Canada,76
+Rye,2008,Feed Dom. Consumption,Canada,88
+Rye,2008,FSI Consumption,Canada,55
+Rye,2008,Imports,Canada,0
+Rye,2008,Production,Canada,297
+Rye,2008,Total Distribution,Canada,332
+Rye,2008,Total Supply,Canada,332
+Rye,2008,TY Exports,Canada,76
+Rye,2008,TY Imp. from U.S.,Canada,0
+Rye,2008,TY Imports,Canada,0
+Rye,2008,Yield,Canada,2.41Rye,2009,Area Harvested,Canada,115
+Rye,2009,Beginning Stocks,Canada,113
+Rye,2009,Domestic Consumption,Canada,131
+Rye,2009,Ending Stocks,Canada,139
+Rye,2009,Exports,Canada,124
+Rye,2009,Feed Dom. Consumption,Canada,76
+Rye,2009,FSI Consumption,Canada,55
+Rye,2009,Imports,Canada,0
+Rye,2009,Production,Canada,281
+Rye,2009,Total Distribution,Canada,394
+Rye,2009,Total Supply,Canada,394
+Rye,2009,TY Exports,Canada,142
+Rye,2009,TY Imp. from U.S.,Canada,0
+Rye,2009,TY Imports,Canada,0
+Rye,2009,Yield,Canada,2.44Rye,2010,Area Harvested,Canada,97
+Rye,2010,Beginning Stocks,Canada,139
+Rye,2010,Domestic Consumption,Canada,136
+Rye,2010,Ending Stocks,Canada,51
+Rye,2010,Exports,Canada,189
+Rye,2010,Feed Dom. Consumption,Canada,76
+Rye,2010,FSI Consumption,Canada,60
+Rye,2010,Imports,Canada,0
+Rye,2010,Production,Canada,237
+Rye,2010,Total Distribution,Canada,376
+Rye,2010,Total Supply,Canada,376
+Rye,2010,TY Exports,Canada,221
+Rye,2010,TY Imp. from U.S.,Canada,0
+Rye,2010,TY Imports,Canada,0
+Rye,2010,Yield,Canada,2.44Rye,2011,Area Harvested,Canada,96
+Rye,2011,Beginning Stocks,Canada,51
+Rye,2011,Domestic Consumption,Canada,101
+Rye,2011,Ending Stocks,Canada,25
+Rye,2011,Exports,Canada,166
+Rye,2011,Feed Dom. Consumption,Canada,41
+Rye,2011,FSI Consumption,Canada,60
+Rye,2011,Imports,Canada,0
+Rye,2011,Production,Canada,241
+Rye,2011,Total Distribution,Canada,292
+Rye,2011,Total Supply,Canada,292
+Rye,2011,TY Exports,Canada,159
+Rye,2011,TY Imp. from U.S.,Canada,0
+Rye,2011,TY Imports,Canada,0
+Rye,2011,Yield,Canada,2.51Rye,2000,Area Harvested,Russia,3450
+Rye,2000,Beginning Stocks,Russia,211
+Rye,2000,Domestic Consumption,Russia,5550
+Rye,2000,Ending Stocks,Russia,298
+Rye,2000,Exports,Russia,0
+Rye,2000,Feed Dom. Consumption,Russia,1200
+Rye,2000,FSI Consumption,Russia,4350
+Rye,2000,Imports,Russia,193
+Rye,2000,Production,Russia,5444
+Rye,2000,Total Distribution,Russia,5848
+Rye,2000,Total Supply,Russia,5848
+Rye,2000,TY Exports,Russia,0
+Rye,2000,TY Imp. from U.S.,Russia,0
+Rye,2000,TY Imports,Russia,63
+Rye,2000,Yield,Russia,1.58Rye,2001,Area Harvested,Russia,3530
+Rye,2001,Beginning Stocks,Russia,298
+Rye,2001,Domestic Consumption,Russia,5800
+Rye,2001,Ending Stocks,Russia,1133
+Rye,2001,Exports,Russia,4
+Rye,2001,Feed Dom. Consumption,Russia,1400
+Rye,2001,FSI Consumption,Russia,4400
+Rye,2001,Imports,Russia,7
+Rye,2001,Production,Russia,6632
+Rye,2001,Total Distribution,Russia,6937
+Rye,2001,Total Supply,Russia,6937
+Rye,2001,TY Exports,Russia,4
+Rye,2001,TY Imp. from U.S.,Russia,0
+Rye,2001,TY Imports,Russia,3
+Rye,2001,Yield,Russia,1.88Rye,2002,Area Harvested,Russia,3750
+Rye,2002,Beginning Stocks,Russia,1133
+Rye,2002,Domestic Consumption,Russia,6150
+Rye,2002,Ending Stocks,Russia,1814
+Rye,2002,Exports,Russia,291
+Rye,2002,Feed Dom. Consumption,Russia,1750
+Rye,2002,FSI Consumption,Russia,4400
+Rye,2002,Imports,Russia,0
+Rye,2002,Production,Russia,7122
+Rye,2002,Total Distribution,Russia,8255
+Rye,2002,Total Supply,Russia,8255
+Rye,2002,TY Exports,Russia,414
+Rye,2002,TY Imp. from U.S.,Russia,0
+Rye,2002,TY Imports,Russia,0
+Rye,2002,Yield,Russia,1.9Rye,2003,Area Harvested,Russia,2230
+Rye,2003,Beginning Stocks,Russia,1814
+Rye,2003,Domestic Consumption,Russia,5500
+Rye,2003,Ending Stocks,Russia,311
+Rye,2003,Exports,Russia,156
+Rye,2003,Feed Dom. Consumption,Russia,1100
+Rye,2003,FSI Consumption,Russia,4400
+Rye,2003,Imports,Russia,6
+Rye,2003,Production,Russia,4147
+Rye,2003,Total Distribution,Russia,5967
+Rye,2003,Total Supply,Russia,5967
+Rye,2003,TY Exports,Russia,31
+Rye,2003,TY Imp. from U.S.,Russia,0
+Rye,2003,TY Imports,Russia,6
+Rye,2003,Yield,Russia,1.86Rye,2004,Area Harvested,Russia,1860
+Rye,2004,Beginning Stocks,Russia,311
+Rye,2004,Domestic Consumption,Russia,3150
+Rye,2004,Ending Stocks,Russia,197
+Rye,2004,Exports,Russia,0
+Rye,2004,Feed Dom. Consumption,Russia,150
+Rye,2004,FSI Consumption,Russia,3000
+Rye,2004,Imports,Russia,172
+Rye,2004,Production,Russia,2864
+Rye,2004,Total Distribution,Russia,3347
+Rye,2004,Total Supply,Russia,3347
+Rye,2004,TY Exports,Russia,0
+Rye,2004,TY Imp. from U.S.,Russia,0
+Rye,2004,TY Imports,Russia,177
+Rye,2004,Yield,Russia,1.54Rye,2005,Area Harvested,Russia,2310
+Rye,2005,Beginning Stocks,Russia,197
+Rye,2005,Domestic Consumption,Russia,3700
+Rye,2005,Ending Stocks,Russia,168
+Rye,2005,Exports,Russia,0
+Rye,2005,Feed Dom. Consumption,Russia,500
+Rye,2005,FSI Consumption,Russia,3200
+Rye,2005,Imports,Russia,49
+Rye,2005,Production,Russia,3622
+Rye,2005,Total Distribution,Russia,3868
+Rye,2005,Total Supply,Russia,3868
+Rye,2005,TY Exports,Russia,0
+Rye,2005,TY Imp. from U.S.,Russia,0
+Rye,2005,TY Imports,Russia,56
+Rye,2005,Yield,Russia,1.57Rye,2006,Area Harvested,Russia,1730
+Rye,2006,Beginning Stocks,Russia,168
+Rye,2006,Domestic Consumption,Russia,2950
+Rye,2006,Ending Stocks,Russia,183
+Rye,2006,Exports,Russia,26
+Rye,2006,Feed Dom. Consumption,Russia,100
+Rye,2006,FSI Consumption,Russia,2850
+Rye,2006,Imports,Russia,32
+Rye,2006,Production,Russia,2959
+Rye,2006,Total Distribution,Russia,3159
+Rye,2006,Total Supply,Russia,3159
+Rye,2006,TY Exports,Russia,64
+Rye,2006,TY Imp. from U.S.,Russia,0
+Rye,2006,TY Imports,Russia,16
+Rye,2006,Yield,Russia,1.71Rye,2007,Area Harvested,Russia,2040
+Rye,2007,Beginning Stocks,Russia,183
+Rye,2007,Domestic Consumption,Russia,3750
+Rye,2007,Ending Stocks,Russia,223
+Rye,2007,Exports,Russia,119
+Rye,2007,Feed Dom. Consumption,Russia,600
+Rye,2007,FSI Consumption,Russia,3150
+Rye,2007,Imports,Russia,0
+Rye,2007,Production,Russia,3909
+Rye,2007,Total Distribution,Russia,4092
+Rye,2007,Total Supply,Russia,4092
+Rye,2007,TY Exports,Russia,86
+Rye,2007,TY Imp. from U.S.,Russia,0
+Rye,2007,TY Imports,Russia,0
+Rye,2007,Yield,Russia,1.92Rye,2008,Area Harvested,Russia,2140
+Rye,2008,Beginning Stocks,Russia,223
+Rye,2008,Domestic Consumption,Russia,4400
+Rye,2008,Ending Stocks,Russia,312
+Rye,2008,Exports,Russia,16
+Rye,2008,Feed Dom. Consumption,Russia,900
+Rye,2008,FSI Consumption,Russia,3500
+Rye,2008,Imports,Russia,0
+Rye,2008,Production,Russia,4505
+Rye,2008,Total Distribution,Russia,4728
+Rye,2008,Total Supply,Russia,4728
+Rye,2008,TY Exports,Russia,14
+Rye,2008,TY Imp. from U.S.,Russia,0
+Rye,2008,TY Imports,Russia,0
+Rye,2008,Yield,Russia,2.11Rye,2009,Area Harvested,Russia,2090
+Rye,2009,Beginning Stocks,Russia,312
+Rye,2009,Domestic Consumption,Russia,4325
+Rye,2009,Ending Stocks,Russia,308
+Rye,2009,Exports,Russia,12
+Rye,2009,Feed Dom. Consumption,Russia,825
+Rye,2009,FSI Consumption,Russia,3500
+Rye,2009,Imports,Russia,0
+Rye,2009,Production,Russia,4333
+Rye,2009,Total Distribution,Russia,4645
+Rye,2009,Total Supply,Russia,4645
+Rye,2009,TY Exports,Russia,9
+Rye,2009,TY Imp. from U.S.,Russia,0
+Rye,2009,TY Imports,Russia,0
+Rye,2009,Yield,Russia,2.07Rye,2010,Area Harvested,Russia,1380
+Rye,2010,Beginning Stocks,Russia,308
+Rye,2010,Domestic Consumption,Russia,1850
+Rye,2010,Ending Stocks,Russia,250
+Rye,2010,Exports,Russia,0
+Rye,2010,Feed Dom. Consumption,Russia,100
+Rye,2010,FSI Consumption,Russia,1750
+Rye,2010,Imports,Russia,150
+Rye,2010,Production,Russia,1642
+Rye,2010,Total Distribution,Russia,2100
+Rye,2010,Total Supply,Russia,2100
+Rye,2010,TY Exports,Russia,21
+Rye,2010,TY Imp. from U.S.,Russia,0
+Rye,2010,TY Imports,Russia,150
+Rye,2010,Yield,Russia,1.19Rye,2011,Area Harvested,Russia,1522
+Rye,2011,Beginning Stocks,Russia,250
+Rye,2011,Domestic Consumption,Russia,2850
+Rye,2011,Ending Stocks,Russia,129
+Rye,2011,Exports,Russia,238
+Rye,2011,Feed Dom. Consumption,Russia,200
+Rye,2011,FSI Consumption,Russia,2650
+Rye,2011,Imports,Russia,0
+Rye,2011,Production,Russia,2967
+Rye,2011,Total Distribution,Russia,3217
+Rye,2011,Total Supply,Russia,3217
+Rye,2011,TY Exports,Russia,284
+Rye,2011,TY Imp. from U.S.,Russia,0
+Rye,2011,TY Imports,Russia,0
+Rye,2011,Yield,Russia,1.95

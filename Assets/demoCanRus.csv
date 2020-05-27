@@ -1,0 +1,342 @@
+Product,Market_Year,Attribute_Description,Country_Name,Value
+Barley,2000,Area Harvested,Canada,4468
+Barley,2000,Beginning Stocks,Canada,2838
+Barley,2000,Domestic Consumption,Canada,11618
+Barley,2000,Ending Stocks,Canada,2516
+Barley,2000,Exports,Canada,1971
+Barley,2000,Feed Dom. Consumption,Canada,10145
+Barley,2000,FSI Consumption,Canada,1473
+Barley,2000,Imports,Canada,38
+Barley,2000,Production,Canada,13229
+Barley,2000,Total Distribution,Canada,16105
+Barley,2000,Total Supply,Canada,16105
+Barley,2000,TY Exports,Canada,2014
+Barley,2000,TY Imp. from U.S.,Canada,67
+Barley,2000,TY Imports,Canada,67
+Barley,2000,Yield,Canada,2.96Barley,2001,Area Harvested,Canada,4150
+Barley,2001,Beginning Stocks,Canada,2516
+Barley,2001,Domestic Consumption,Canada,10405
+Barley,2001,Ending Stocks,Canada,1898
+Barley,2001,Exports,Canada,1164
+Barley,2001,Feed Dom. Consumption,Canada,8979
+Barley,2001,FSI Consumption,Canada,1426
+Barley,2001,Imports,Canada,105
+Barley,2001,Production,Canada,10846
+Barley,2001,Total Distribution,Canada,13467
+Barley,2001,Total Supply,Canada,13467
+Barley,2001,TY Exports,Canada,1146
+Barley,2001,TY Imp. from U.S.,Canada,126
+Barley,2001,TY Imports,Canada,126
+Barley,2001,Yield,Canada,2.61Barley,2002,Area Harvested,Canada,3342
+Barley,2002,Beginning Stocks,Canada,1898
+Barley,2002,Domestic Consumption,Canada,7711
+Barley,2002,Ending Stocks,Canada,1475
+Barley,2002,Exports,Canada,427
+Barley,2002,Feed Dom. Consumption,Canada,6320
+Barley,2002,FSI Consumption,Canada,1391
+Barley,2002,Imports,Canada,247
+Barley,2002,Production,Canada,7468
+Barley,2002,Total Distribution,Canada,9613
+Barley,2002,Total Supply,Canada,9613
+Barley,2002,TY Exports,Canada,329
+Barley,2002,TY Imp. from U.S.,Canada,150
+Barley,2002,TY Imports,Canada,201
+Barley,2002,Yield,Canada,2.23Barley,2003,Area Harvested,Canada,4397
+Barley,2003,Beginning Stocks,Canada,1475
+Barley,2003,Domestic Consumption,Canada,9714
+Barley,2003,Ending Stocks,Canada,2102
+Barley,2003,Exports,Canada,1854
+Barley,2003,Feed Dom. Consumption,Canada,8357
+Barley,2003,FSI Consumption,Canada,1357
+Barley,2003,Imports,Canada,31
+Barley,2003,Production,Canada,12164
+Barley,2003,Total Distribution,Canada,13670
+Barley,2003,Total Supply,Canada,13670
+Barley,2003,TY Exports,Canada,1951
+Barley,2003,TY Imp. from U.S.,Canada,29
+Barley,2003,TY Imports,Canada,29
+Barley,2003,Yield,Canada,2.77
+Barley,2004,Area Harvested,Canada,3841
+Barley,2004,Beginning Stocks,Canada,2102
+Barley,2004,Domestic Consumption,Canada,10130
+Barley,2004,Ending Stocks,Canada,3435
+Barley,2004,Exports,Canada,1175
+Barley,2004,Feed Dom. Consumption,Canada,8807
+Barley,2004,FSI Consumption,Canada,1323
+Barley,2004,Imports,Canada,81
+Barley,2004,Production,Canada,12557
+Barley,2004,Total Distribution,Canada,14740
+Barley,2004,Total Supply,Canada,14740
+Barley,2004,TY Exports,Canada,1535
+Barley,2004,TY Imp. from U.S.,Canada,85
+Barley,2004,TY Imports,Canada,86
+Barley,2004,Yield,Canada,3.27
+Barley,2005,Area Harvested,Canada,3634
+Barley,2005,Beginning Stocks,Canada,3435
+Barley,2005,Domestic Consumption,Canada,9636
+Barley,2005,Ending Stocks,Canada,3289
+Barley,2005,Exports,Canada,2232
+Barley,2005,Feed Dom. Consumption,Canada,8398
+Barley,2005,FSI Consumption,Canada,1238
+Barley,2005,Imports,Canada,44
+Barley,2005,Production,Canada,11678
+Barley,2005,Total Distribution,Canada,15157
+Barley,2005,Total Supply,Canada,15157
+Barley,2005,TY Exports,Canada,1876
+Barley,2005,TY Imp. from U.S.,Canada,45
+Barley,2005,TY Imports,Canada,46
+Barley,2005,Yield,Canada,3.21
+Barley,2006,Area Harvested,Canada,3223
+Barley,2006,Beginning Stocks,Canada,3289
+Barley,2006,Domestic Consumption,Canada,10182
+Barley,2006,Ending Stocks,Canada,1491
+Barley,2006,Exports,Canada,1232
+Barley,2006,Feed Dom. Consumption,Canada,8757
+Barley,2006,FSI Consumption,Canada,1425
+Barley,2006,Imports,Canada,43
+Barley,2006,Production,Canada,9573
+Barley,2006,Total Distribution,Canada,12905
+Barley,2006,Total Supply,Canada,12905
+Barley,2006,TY Exports,Canada,1337
+Barley,2006,TY Imp. from U.S.,Canada,41
+Barley,2006,TY Imports,Canada,41
+Barley,2006,Yield,Canada,2.97
+Barley,2007,Area Harvested,Canada,3963
+Barley,2007,Beginning Stocks,Canada,1491
+Barley,2007,Domestic Consumption,Canada,7842
+Barley,2007,Ending Stocks,Canada,1568
+Barley,2007,Exports,Canada,3046
+Barley,2007,Feed Dom. Consumption,Canada,6388
+Barley,2007,FSI Consumption,Canada,1454
+Barley,2007,Imports,Canada,55
+Barley,2007,Production,Canada,10910
+Barley,2007,Total Distribution,Canada,12456
+Barley,2007,Total Supply,Canada,12456
+Barley,2007,TY Exports,Canada,2947
+Barley,2007,TY Imp. from U.S.,Canada,53
+Barley,2007,TY Imports,Canada,53
+Barley,2007,Yield,Canada,2.75Barley,2008,Area Harvested,Canada,3504
+Barley,2008,Beginning Stocks,Canada,1568
+Barley,2008,Domestic Consumption,Canada,8949
+Barley,2008,Ending Stocks,Canada,2964
+Barley,2008,Exports,Canada,1483
+Barley,2008,Feed Dom. Consumption,Canada,7605
+Barley,2008,FSI Consumption,Canada,1344
+Barley,2008,Imports,Canada,42
+Barley,2008,Production,Canada,11786
+Barley,2008,Total Distribution,Canada,13396
+Barley,2008,Total Supply,Canada,13396
+Barley,2008,TY Exports,Canada,1618
+Barley,2008,TY Imp. from U.S.,Canada,42
+Barley,2008,TY Imports,Canada,42
+Barley,2008,Yield,Canada,3.36Barley,2009,Area Harvested,Canada,2922
+Barley,2009,Beginning Stocks,Canada,2964
+Barley,2009,Domestic Consumption,Canada,8717
+Barley,2009,Ending Stocks,Canada,2502
+Barley,2009,Exports,Canada,1309
+Barley,2009,Feed Dom. Consumption,Canada,7524
+Barley,2009,FSI Consumption,Canada,1193
+Barley,2009,Imports,Canada,36
+Barley,2009,Production,Canada,9528
+Barley,2009,Total Distribution,Canada,12528
+Barley,2009,Total Supply,Canada,12528
+Barley,2009,TY Exports,Canada,1203
+Barley,2009,TY Imp. from U.S.,Canada,29
+Barley,2009,TY Imports,Canada,29
+Barley,2009,Yield,Canada,3.26Barley,2010,Area Harvested,Canada,2394
+Barley,2010,Beginning Stocks,Canada,2502
+Barley,2010,Domestic Consumption,Canada,7464
+Barley,2010,Ending Stocks,Canada,1502
+Barley,2010,Exports,Canada,1207
+Barley,2010,Feed Dom. Consumption,Canada,6314
+Barley,2010,FSI Consumption,Canada,1150
+Barley,2010,Imports,Canada,44
+Barley,2010,Production,Canada,7627
+Barley,2010,Total Distribution,Canada,10173
+Barley,2010,Total Supply,Canada,10173
+Barley,2010,TY Exports,Canada,1052
+Barley,2010,TY Imp. from U.S.,Canada,53
+Barley,2010,TY Imports,Canada,53
+Barley,2010,Yield,Canada,3.19Barley,2011,Area Harvested,Canada,2402
+Barley,2011,Beginning Stocks,Canada,1502
+Barley,2011,Domestic Consumption,Canada,6916
+Barley,2011,Ending Stocks,Canada,1195
+Barley,2011,Exports,Canada,1299
+Barley,2011,Feed Dom. Consumption,Canada,5731
+Barley,2011,FSI Consumption,Canada,1185
+Barley,2011,Imports,Canada,16
+Barley,2011,Production,Canada,7892
+Barley,2011,Total Distribution,Canada,9410
+Barley,2011,Total Supply,Canada,9410
+Barley,2011,TY Exports,Canada,1437
+Barley,2011,TY Imp. from U.S.,Canada,5
+Barley,2011,TY Imports,Canada,6
+Barley,2011,Yield,Canada,3.29Barley,2000,Area Harvested,Russia,8460
+Barley,2000,Beginning Stocks,Russia,326
+Barley,2000,Domestic Consumption,Russia,12700
+Barley,2000,Ending Stocks,Russia,1544
+Barley,2000,Exports,Russia,573
+Barley,2000,Feed Dom. Consumption,Russia,8800
+Barley,2000,FSI Consumption,Russia,3900
+Barley,2000,Imports,Russia,413
+Barley,2000,Production,Russia,14078
+Barley,2000,Total Distribution,Russia,14817
+Barley,2000,Total Supply,Russia,14817
+Barley,2000,TY Exports,Russia,1031
+Barley,2000,TY Imp. from U.S.,Russia,0
+Barley,2000,TY Imports,Russia,346
+Barley,2000,Yield,Russia,1.66Barley,2001,Area Harvested,Russia,9710
+Barley,2001,Beginning Stocks,Russia,1544
+Barley,2001,Domestic Consumption,Russia,14250
+Barley,2001,Ending Stocks,Russia,4435
+Barley,2001,Exports,Russia,2593
+Barley,2001,Feed Dom. Consumption,Russia,9850
+Barley,2001,FSI Consumption,Russia,4400
+Barley,2001,Imports,Russia,201
+Barley,2001,Production,Russia,19533
+Barley,2001,Total Distribution,Russia,21278
+Barley,2001,Total Supply,Russia,21278
+Barley,2001,TY Exports,Russia,2664
+Barley,2001,TY Imp. from U.S.,Russia,0
+Barley,2001,TY Imports,Russia,192
+Barley,2001,Yield,Russia,2.01Barley,2002,Area Harvested,Russia,9490
+Barley,2002,Beginning Stocks,Russia,4435
+Barley,2002,Domestic Consumption,Russia,15500
+Barley,2002,Ending Stocks,Russia,4792
+Barley,2002,Exports,Russia,3132
+Barley,2002,Feed Dom. Consumption,Russia,10700
+Barley,2002,FSI Consumption,Russia,4800
+Barley,2002,Imports,Russia,251
+Barley,2002,Production,Russia,18738
+Barley,2002,Total Distribution,Russia,23424
+Barley,2002,Total Supply,Russia,23424
+Barley,2002,TY Exports,Russia,3066
+Barley,2002,TY Imp. from U.S.,Russia,0
+Barley,2002,TY Imports,Russia,275
+Barley,2002,Yield,Russia,1.97Barley,2003,Area Harvested,Russia,9250
+Barley,2003,Beginning Stocks,Russia,4792
+Barley,2003,Domestic Consumption,Russia,18600
+Barley,2003,Ending Stocks,Russia,2316
+Barley,2003,Exports,Russia,2318
+Barley,2003,Feed Dom. Consumption,Russia,13700
+Barley,2003,FSI Consumption,Russia,4900
+Barley,2003,Imports,Russia,439
+Barley,2003,Production,Russia,18003
+Barley,2003,Total Distribution,Russia,23234
+Barley,2003,Total Supply,Russia,23234
+Barley,2003,TY Exports,Russia,1736
+Barley,2003,TY Imp. from U.S.,Russia,0
+Barley,2003,TY Imports,Russia,438
+Barley,2003,Yield,Russia,1.95Barley,2004,Area Harvested,Russia,9570
+Barley,2004,Beginning Stocks,Russia,2316
+Barley,2004,Domestic Consumption,Russia,16500
+Barley,2004,Ending Stocks,Russia,2179
+Barley,2004,Exports,Russia,1089
+Barley,2004,Feed Dom. Consumption,Russia,11700
+Barley,2004,FSI Consumption,Russia,4800
+Barley,2004,Imports,Russia,272
+Barley,2004,Production,Russia,17180
+Barley,2004,Total Distribution,Russia,19768
+Barley,2004,Total Supply,Russia,19768
+Barley,2004,TY Exports,Russia,1488
+Barley,2004,TY Imp. from U.S.,Russia,0
+Barley,2004,TY Imports,Russia,266
+Barley,2004,Yield,Russia,1.8Barley,2005,Area Harvested,Russia,8700
+Barley,2005,Beginning Stocks,Russia,2179
+Barley,2005,Domestic Consumption,Russia,15500
+Barley,2005,Ending Stocks,Russia,933
+Barley,2005,Exports,Russia,1726
+Barley,2005,Feed Dom. Consumption,Russia,10900
+Barley,2005,FSI Consumption,Russia,4600
+Barley,2005,Imports,Russia,189
+Barley,2005,Production,Russia,15791
+Barley,2005,Total Distribution,Russia,18159
+Barley,2005,Total Supply,Russia,18159
+Barley,2005,TY Exports,Russia,1397
+Barley,2005,TY Imp. from U.S.,Russia,0
+Barley,2005,TY Imports,Russia,188
+Barley,2005,Yield,Russia,1.82Barley,2006,Area Harvested,Russia,9600
+Barley,2006,Beginning Stocks,Russia,933
+Barley,2006,Domestic Consumption,Russia,16400
+Barley,2006,Ending Stocks,Russia,1421
+Barley,2006,Exports,Russia,1547
+Barley,2006,Feed Dom. Consumption,Russia,11800
+Barley,2006,FSI Consumption,Russia,4600
+Barley,2006,Imports,Russia,280
+Barley,2006,Production,Russia,18155
+Barley,2006,Total Distribution,Russia,19368
+Barley,2006,Total Supply,Russia,19368
+Barley,2006,TY Exports,Russia,1691
+Barley,2006,TY Imp. from U.S.,Russia,0
+Barley,2006,TY Imports,Russia,229
+Barley,2006,Yield,Russia,1.89Barley,2007,Area Harvested,Russia,8360
+Barley,2007,Beginning Stocks,Russia,1421
+Barley,2007,Domestic Consumption,Russia,15050
+Barley,2007,Ending Stocks,Russia,1164
+Barley,2007,Exports,Russia,1046
+Barley,2007,Feed Dom. Consumption,Russia,10450
+Barley,2007,FSI Consumption,Russia,4600
+Barley,2007,Imports,Russia,176
+Barley,2007,Production,Russia,15663
+Barley,2007,Total Distribution,Russia,17260
+Barley,2007,Total Supply,Russia,17260
+Barley,2007,TY Exports,Russia,1277
+Barley,2007,TY Imp. from U.S.,Russia,0
+Barley,2007,TY Imports,Russia,179
+Barley,2007,Yield,Russia,1.87Barley,2008,Area Harvested,Russia,9440
+Barley,2008,Beginning Stocks,Russia,1164
+Barley,2008,Domestic Consumption,Russia,17100
+Barley,2008,Ending Stocks,Russia,3833
+Barley,2008,Exports,Russia,3444
+Barley,2008,Feed Dom. Consumption,Russia,12300
+Barley,2008,FSI Consumption,Russia,4800
+Barley,2008,Imports,Russia,65
+Barley,2008,Production,Russia,23148
+Barley,2008,Total Distribution,Russia,24377
+Barley,2008,Total Supply,Russia,24377
+Barley,2008,TY Exports,Russia,3598
+Barley,2008,TY Imp. from U.S.,Russia,0
+Barley,2008,TY Imports,Russia,39
+Barley,2008,Yield,Russia,2.45Barley,2009,Area Harvested,Russia,7720
+Barley,2009,Beginning Stocks,Russia,3833
+Barley,2009,Domestic Consumption,Russia,16650
+Barley,2009,Ending Stocks,Russia,2420
+Barley,2009,Exports,Russia,2657
+Barley,2009,Feed Dom. Consumption,Russia,12150
+Barley,2009,FSI Consumption,Russia,4500
+Barley,2009,Imports,Russia,13
+Barley,2009,Production,Russia,17881
+Barley,2009,Total Distribution,Russia,21727
+Barley,2009,Total Supply,Russia,21727
+Barley,2009,TY Exports,Russia,2086
+Barley,2009,TY Imp. from U.S.,Russia,0
+Barley,2009,TY Imports,Russia,13
+Barley,2009,Yield,Russia,2.32Barley,2010,Area Harvested,Russia,4970
+Barley,2010,Beginning Stocks,Russia,2420
+Barley,2010,Domestic Consumption,Russia,9500
+Barley,2010,Ending Stocks,Russia,1375
+Barley,2010,Exports,Russia,267
+Barley,2010,Feed Dom. Consumption,Russia,5500
+Barley,2010,FSI Consumption,Russia,4000
+Barley,2010,Imports,Russia,372
+Barley,2010,Production,Russia,8350
+Barley,2010,Total Distribution,Russia,11142
+Barley,2010,Total Supply,Russia,11142
+Barley,2010,TY Exports,Russia,969
+Barley,2010,TY Imp. from U.S.,Russia,0
+Barley,2010,TY Imports,Russia,411
+Barley,2010,Yield,Russia,1.68Barley,2011,Area Harvested,Russia,7695
+Barley,2011,Beginning Stocks,Russia,1375
+Barley,2011,Domestic Consumption,Russia,14400
+Barley,2011,Ending Stocks,Russia,829
+Barley,2011,Exports,Russia,3544
+Barley,2011,Feed Dom. Consumption,Russia,9900
+Barley,2011,FSI Consumption,Russia,4500
+Barley,2011,Imports,Russia,460
+Barley,2011,Production,Russia,16938
+Barley,2011,Total Distribution,Russia,18773
+Barley,2011,Total Supply,Russia,18773
+Barley,2011,TY Exports,Russia,3667
+Barley,2011,TY Imp. from U.S.,Russia,0
+Barley,2011,TY Imports,Russia,372
+Barley,2011,Yield,Russia,2.2
