@@ -1,4 +1,4 @@
-Product,Market_Year,Attribute_Description,Country_Name,Value
+Product,MarketYear,AttributeDescription,CountryName,Value
 Barley,2000,Area Harvested,Canada,4468
 Barley,2000,Beginning Stocks,Canada,2838
 Barley,2000,Domestic Consumption,Canada,11618

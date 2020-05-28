@@ -1,4 +1,4 @@
-Product,Market_Year,Attribute_Description,Country_Name,Value
+Product,MarketYear,AttributeDescription,CountryName,Value
 Rye,2000,Area Harvested,Canada,115
 Rye,2000,Beginning Stocks,Canada,161
 Rye,2000,Domestic Consumption,Canada,256
