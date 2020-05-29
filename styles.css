@@ -1,24 +1,29 @@
 body {
   font-family: "Lato", Arial, sans-serif;
+  background-color: rgb(47,74,109);
+  border-style: solid;
+  border-width: 8px;
+  border-color: rgb(235,212,24);
 }
 
 #mainContent {
   display: grid;
-  grid-template-columns: 25% auto 25%;
-  grid-template-rows: 25% auto auto;
+  grid-template-columns: 80px auto auto;
+  grid-template-rows: 40px auto auto;
   grid-gap: 3px;
 }
 
 #mainLogo {
-  margin-top: 35px;
-  grid-column-start: 2;
+  margin: 35px;
+  grid-column-start: 1;
   grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: : 2;
+  background-color: rgb(47,74,109);
 }
 
 #charts {
-  grid-column-start: 2;
+  grid-column-start: 1;
   grid-column-end: 3;
   grid-row-start: 2;
   grid-row-end: : 3;
@@ -64,13 +69,10 @@ option:hover {
   display: none;
 }
 .bar{
-  fill:rgba(80,73,113,1);
-  /*when -webkit for shadow is added it displaces the tooltip, Personal Note: check d3 event.Layer */
-  /*-webkit-filter: drop-shadow( 9px 0px 3px rgba(0,0,0,.5) );
-  filter: drop-shadow( 9px 0px 3px rgba(0,0,0,.5) );*/
+  fill:rgba(108,163,196,1);
 }
 .bar:hover{
-  fill:rgba(192,182,207,1);
+  fill:rgb(135,187,228);
 }
 .d3tooltip {
   position: absolute;
