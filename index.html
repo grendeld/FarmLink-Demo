@@ -14,10 +14,7 @@
 
 <body>
   <div id="mainContent">
-     <img id="mainLogo" class="dark_logo mobile_logo"
-    src="https://www.farmlinksolutions.ca/wp-content/uploads/2016/05/logo-1.png"
-    alt="FarmLink" title="FarmLink" data-pagespeed-url-hash="2290204300"
-    onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+    <img id="mainLogo" class="dark_logo mobile_logo" src="https://www.farmlinksolutions.ca/wp-content/uploads/2016/05/logo-1.png" alt="FarmLink" title="FarmLink" data-pagespeed-url-hash="2290204300">
 
     <div id="charts">
       <!-- Selects, Note: This are manually created for demo purposes.
@@ -60,6 +57,7 @@
 
 
   //d3 variables end
+  
   //tooltip
   // var toolTip = d3.select('#charts')
   //   .append('div')
@@ -78,7 +76,7 @@
     .attr("height", height + margin.top + margin.bottom);
 
   var g = barChart.append("g")
-    .attr("transform", "translate(" + 100 + "," + 100 + ")");
+    .attr("transform", "translate(" + 80 + "," + 20 + ")");
 
   var x = d3.scaleBand().rangeRound([0, width]).padding(0.2);
   var y = d3.scaleLinear().rangeRound([height, 0]);
@@ -97,7 +95,8 @@
         return d.Value;
       })]);
 
-      //g.selectAll('.tick').remove(); // css transition eventually
+      g.selectAll('.tick').remove(); // css transition eventually
+
 
       g.append("g")
         .attr("class", "axis_axis--x")
@@ -108,15 +107,15 @@
 
       g.append("g")
         .attr("class", "axis axis--y")
-        .call(d3.axisLeft(y).ticks(5))
+        .call(d3.axisLeft(y).ticks(10))
         .attr("font-size", "16px")
-        .attr("font-family", "Raleway")
-        .append("text") //discover code/format for text axis manipulation
-        .attr("transform", "rotate(-90)")
-        .attr("y", 6)
-        .attr("dy", "0.72em")
-        .attr("text-anchor", "end")
-        .text("Value");
+        .attr("font-family", "Raleway");
+      // .append("text") //discover code/format for text axis manipulation
+      // .attr("transform", "rotate(-90)")
+      // .attr("y", 6)
+      // .attr("dy", "0.72em")
+      // .attr("text-anchor", "end")
+      // .text("Value");
 
       g.selectAll('.bar').remove();
       var bars = g.selectAll(".bar")
@@ -132,8 +131,24 @@
         })
         .attr("width", x.bandwidth())
         .attr("height", function(d) {
-          return height - y(d.Value);
+          return height - y(0);
         });
+
+      //Animation
+      g.selectAll("rect")
+        .transition()
+        .duration(800)
+        .attr("y", function(d) {
+          return y(d.Value);
+        })
+        .attr("height", function(d) {
+          return height - y(d.Value);
+        })
+        .delay(function(d, i) {
+          console.log(i);
+          return (i * 10)
+        })
+
 
       //mouseover function
       // bars.on('mouseover', function(d) {
